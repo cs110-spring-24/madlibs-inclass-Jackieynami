@@ -7,6 +7,6 @@ verb = input("Enter a verb: ")
 name = input("Enter aname: ")
 noun2 = input("Enter another noun: ")
 
-print(f"{noun} was {adjective} while {verb}")
+print(f"{noun} was {adjective} while {verb}. They met {name}")
 
 
